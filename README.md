@@ -17,6 +17,19 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 3. File --> Upload Notebook --> Upload
 4. Open repository & Run program
 5. Enjoy your analysis & visualizations
-## 
+## Analysis Steps
+| Step | Description |
+| ----------- | ----------- |
+| Step 1 | Title |
+| Step 2 | Text |
+| Step 3 | Title |
+| Step 4 | Text |
+## Screenshots
+#### Did the Google search traffic increase during the month that MercadoLibre released its financial results?
+![screenshot of analysis #1](sc1.png)
 
-##
+## References
+[Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)    
+[UNC Bootcamp Spot - Activities](https://git.bootcampcontent.com/UNC-Chapel-Hill/UNC-VIRT-AI-PT-06-2024-U-LOLC)    
+[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
