@@ -11,12 +11,14 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 - Branch: main    
 - Upload & Run program
 4. Enjoy your analysis & visualizations 
+---
 ### Google Colab - Save Locally
 1. Clone repository `git clone https://github.com/ncmoliver/prophet-challenge.git`
 2. Login to Google Colab
 3. File --> Upload Notebook --> Upload
 4. Open repository & Run program
 5. Enjoy your analysis & visualizations
+---
 ## Analysis Steps
 | Step | Description |
 | ----------- | ----------- |
