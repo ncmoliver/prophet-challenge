@@ -28,7 +28,7 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 | Step 4 | Text |
 ## Screenshots
 #### Did the Google search traffic increase during the month that MercadoLibre released its financial results?
-![screenshot of analysis #1](sc1.png)
+![screenshot of analysis #1](screenshot1.gif)
 
 ## References
 [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)    
