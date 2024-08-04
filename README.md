@@ -3,16 +3,20 @@
 ## Project Overview
 This project is for the top e-commerce site in Latin America, Mercado Libre. In this program, the goal is to find any unusual trends in the hourly Google search traffic and compare them to the stock price patterns. 
 ## Installation Instructions
-### Google Collab - Github (strongly suggested)
-1. Login to Google Collab
+### Google Colab - Github (strongly suggested)
+1. Login to Google Colab
 2. File --> Upload Notebook --> Github
-3. Enter Github user: ncmoliver    
+- Enter Github user: ncmoliver    
 - Repository: prophet-challenge    
 - Branch: main    
 - Upload & Run program
 4. Enjoy your analysis & visualizations 
-### Google Collab - Save Locally (strongly suggested)
-1. 
+### Google Colab - Save Locally
+1. Clone repository `git clone https://github.com/ncmoliver/prophet-challenge.git`
+2. Login to Google Colab
+3. File --> Upload Notebook --> Upload
+4. Open repository & Run program
+5. Enjoy your analysis & visualizations
 ## How To Use
 
 ##
