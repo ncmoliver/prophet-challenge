@@ -1,10 +1,10 @@
 # Mercado 'Search Traffic vs Stock Price' Trend Analysis 
 ![project logo](logo.gif)
 ## Table of Contents 
-[Project Overview](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#project-overview)
-[Installation Instructions](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#installation-instructions)
-[Analysis Steps](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#analysis-steps)
-[## Screenshots](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#screenshots)
+[Project Overview](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#project-overview)    
+[Installation Instructions](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#installation-instructions)    
+[Analysis Steps](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#analysis-steps)    
+[## Screenshots](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#screenshots)    
 [## References](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#references)
 ## Project Overview
 This project is for the top e-commerce site in Latin America, Mercado Libre. In this program, the goal is to find any unusual trends in the hourly Google search traffic and compare them to the stock price patterns. 
