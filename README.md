@@ -1,5 +1,5 @@
 # Mercado 'Search Traffic vs Stock Price' Trend Analysis 
-![project logo](logo.svg)
+![project logo](logo.gif)
 ## Project Overview
 This project is for the top e-commerce site in Latin America, Mercado Libre. In this program, the goal is to find any unusual trends in the hourly Google search traffic and compare them to the stock price patterns. 
 ## Installation Instructions
