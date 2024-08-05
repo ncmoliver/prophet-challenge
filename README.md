@@ -30,22 +30,24 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 | ----------- | ----------- | 
 | Find Unusual Patterns In Hourly Google Search Traffic | **1.** Using Google search trends on the company, the first step involved reading the data into a dataframe and slicing out the month the company released its quarterly financial results, which was in May 2020. --- **2.** Calculate May's total search traffic and compare it to the monthly median across all months (screenshot #1)  |
 | Mine the Search Traffic Data for Seasonality | This step resulted in three line graphs showing the hourly search data by time of day (24 hours), day of week (Monday to Sunday), and by the week of the year (Week 1 to Week 52). (Screenshot 2 - 4) |
-| Step 3 | Title |
+| Relate Search Traffic to Stock Price Patterns  | **1** Investigate stock patterns, based on theory that E-commerce companies experience a shock early 2020 and after intial shock revenue began to increase. **2.** Create new columns for Lagged Search Trends, Stock Volatility, and Hourly Stock Return. |
 | Step 4 | Text |
 ## Screenshots
-#### Did the Google search traffic increase during the month that MercadoLibre released its financial results?
-
+#### Step 1 -- May's Total Search Traffic vs 2020 Monthly Median (all months)
 <img src="/images/screenshot1.png" width="600" height="400">
 
-#### Hourly Search Data by Hour in Day
+#### Step 2 -- Hourly Search Data by Hour in Day
 <img src="/images/screenshot2.png" width="600" height="400">
 
-#### Hourly Search Data by Day in Week
+#### Step 2 -- Hourly Search Data by Day in Week
 <img src="/images/screenshot3.png" width="600" height="400">
 
-#### Hourly Search Data by Week in Year
+#### Step 2 -- Hourly Search Data by Week in Year
 <img src="/images/screenshot4.png" width="600" height="400">
 
+#### Step 3 -- Relate Search Traffic to Stock Price Patterns
+<img src="/images/screenshot5.png" width="600" height="400">
+#### Step 4 -- 
 ## References
 [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)    
 [UNC Bootcamp Spot - Activities](https://git.bootcampcontent.com/UNC-Chapel-Hill/UNC-VIRT-AI-PT-06-2024-U-LOLC)    
