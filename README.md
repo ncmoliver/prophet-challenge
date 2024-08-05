@@ -6,7 +6,6 @@
 #### [Analysis Steps](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#analysis-steps)    
 #### [## Screenshots](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#screenshots)    
 #### [## References](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#references)
----
 ## Project Overview
 This project is for the top e-commerce site in Latin America, Mercado Libre. In this program, the goal is to find any unusual trends in the hourly Google search traffic and compare them to the stock price patterns. 
 ## Installation Instructions
@@ -29,7 +28,7 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 ## Analysis Steps
 | Step | Description |
 | ----------- | ----------- |
-| Step 1 | Title |
+| Step 1 | <img src="screenshot1.png" width="600" height="400"> |
 | Step 2 | Text |
 | Step 3 | Title |
 | Step 4 | Text |
