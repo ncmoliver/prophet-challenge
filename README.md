@@ -38,13 +38,13 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 <img src="/images/screenshot1.png" width="600" height="400">
 
 #### Hourly Search Data by Hour in Day
-<img src="/images/screenshot2.png>
+<img src="/images/screenshot2.png" width="600" height="400">
 
 #### Hourly Search Data by Day in Week
-<img src="/images/screenshot3.png>
+<img src="/images/screenshot3.png" width="600" height="400">
 
 #### Hourly Search Data by Week in Year
-<img src="/images/screenshot4.png>
+<img src="/images/screenshot4.png" width="600" height="400">
 
 ## References
 [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)    
