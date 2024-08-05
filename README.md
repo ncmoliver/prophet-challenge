@@ -29,7 +29,7 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 | Step | Description | 
 | ----------- | ----------- | 
 | *** Step 1 -- Find Unusual Patterns In Hourly Google Search Traffic *** | **1.** Using Google search trends on the company, the first step involved reading the data into a dataframe and slicing out the month the company released its quarterly financial results, which was in May 2020. --- **2.** Calculate May's total search traffic and compare it to the monthly median across all months (screenshot #1)  |
-| *** Step 2 -- Mine the Search Traffic Data for Seasonality *** | This step resulted in three line graphs showing the hourly search data by time of day (24 hours), day of week (Monday to Sunday), and by the week of the year (Week 1 to Week 52). (Screenshot 2 - 4) |
+| **Step 2 -- Mine the Search Traffic Data for Seasonality** | This step resulted in three line graphs showing the hourly search data by time of day (24 hours), day of week (Monday to Sunday), and by the week of the year (Week 1 to Week 52). (Screenshot 2 - 4) |
 | *** Step 3 -- Relate Search Traffic to Stock Price Patterns *** | **1.** Investigate stock patterns, based on theory that E-commerce companies experience a shock early 2020 and after intial shock revenue began to increase. **2.** Create new columns for Lagged Search Trends, Stock Volatility, and Hourly Stock Return. |
 | Step 4 | Text |
 ## Screenshots
