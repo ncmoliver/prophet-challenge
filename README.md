@@ -29,7 +29,7 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 | Step | Description | 
 | ----------- | ----------- | 
 | Step 1: Unusual Patterns In Hourly Google Search Traffic | Using Google search trends on the company, the first step involved reading the data into a dataframe and slicing out the month the company released its quarterly financial results, which was in May 2020.     
-Does this work?
+Does this work? |
 | Step 2: Calculate May's Total Search Traffic & Compare To The Monthly Median Across All Months  | 
 | Step 3 | Title |
 | Step 4 | Text |
