@@ -46,7 +46,8 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 <img src="/images/screenshot4.png" width="600" height="400">
 
 #### Step 3 -- Relate Search Traffic to Stock Price Patterns
-<img src="/images/screenshot5.png" width="600" height="400">
+<img src="/images/screenshot5.png   " width="600" height="400">
+
 #### Step 4 -- 
 ## References
 [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)    
