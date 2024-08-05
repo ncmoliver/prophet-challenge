@@ -1,5 +1,5 @@
 # Mercado 'Search Traffic vs Stock Price' Trend Analysis 
-![project logo](logo.gif)
+![project logo](/images/logo.gif)
 ## Table of Contents 
 #### [Project Overview](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#project-overview)    
 #### [Installation Instructions](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#installation-instructions)    
@@ -28,13 +28,22 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 ## Analysis Steps
 | Step | Description | 
 | ----------- | ----------- | 
-| Step 1: Unusual Patterns In Hourly Google Search Traffic | **1.** Using Google search trends on the company, the first step involved reading the data into a dataframe and slicing out the month the company released its quarterly financial results, which was in May 2020. --- **2.** Calculate May's total search traffic and compare it to the monthly median across all months (screenshot #1)  |
-| Step 2: Calculate May's Total Search Traffic & Compare To The Monthly Median Across All Months  | 
+| Find Unusual Patterns In Hourly Google Search Traffic | **1.** Using Google search trends on the company, the first step involved reading the data into a dataframe and slicing out the month the company released its quarterly financial results, which was in May 2020. --- **2.** Calculate May's total search traffic and compare it to the monthly median across all months (screenshot #1)  |
+| Mine the Search Traffic Data for Seasonality | This step resulted in three line graphs showing the hourly search data by time of day (24 hours), day of week (Monday to Sunday), and by the week of the year (Week 1 to Week 52). (Screenshot 2 - 4) |
 | Step 3 | Title |
 | Step 4 | Text |
 ## Screenshots
 #### Did the Google search traffic increase during the month that MercadoLibre released its financial results?
-<img src="screenshot1.png" width="600" height="400">
+<img src="/images/screenshot1.png" width="600" height="400">
+
+#### Hourly Search Data by Hour in Day
+<img src="/images/screenshot2.png>
+
+#### Hourly Search Data by Day in Week
+<img src="/images/screenshot3.png>
+
+#### Hourly Search Data by Week in Year
+<img src="/images/screenshot4.png>
 
 ## References
 [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)    
