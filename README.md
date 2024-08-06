@@ -72,13 +72,9 @@ Future interest would be to zoom in on this data around the month of October to 
 #### Step 3 -- This visualization shows the combined dataframes over the first half of the year
 <img src="/images/combined.png" width="600" height="300">
 
-#### Step 4  -- Prophet Model Predictions -- Search Trend Predicton (dotted line) | Potential Actual Outcomes (blue shadow)
+#### Step 4  -- Prophet Model Predictions 
 <img src="/images/screenshot6.png" width="600" height="300">
-
-#### Step 4 -- Yhat (predictive values for each day) -- Upper/Lower (Search trend predictive range for each day)
 <img src="/images/screenshot7.png" width="600" height="300">
-
-#### Step 4 -- Forecast Results -- Search Trend Date (prediction), Day of Week, Day of year, and Hour of Day
 <img src="/images/screenshot8.png" width="600" height="300">
 
 
