@@ -41,28 +41,28 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 
 ## Screenshots
 #### Step 1 -- May's Total Search Traffic vs 2020 Monthly Median (all months)
-<img src="/images/screenshot1.png" width="600" height="200">
+<img src="/images/screenshot1.png" width="600" height="300">
 
 #### Step 2 -- Hourly Search Data by Hour in Day
-<img src="/images/screenshot2.png" width="600" height="200">
+<img src="/images/screenshot2.png" width="600" height="300">
 
 #### Step 2 -- Hourly Search Data by Day in Week
-<img src="/images/screenshot3.png" width="600" height="200">
+<img src="/images/screenshot3.png" width="600" height="300">
 
 #### Step 2 -- Hourly Search Data by Week in Year
-<img src="/images/screenshot4.png" width="600" height="200">
+<img src="/images/screenshot4.png" width="600" height="300">
 
 #### Step 3 -- This visualization shows the combined dataframes over the first half of the year
-<img src="/images/combined.png" width="600" height="200">
+<img src="/images/combined.png" width="600" height="300">
 
 #### Step 3 -- Relate Search Traffic to Stock Price Patterns
-<img src="/images/screenshot6.png" width="600" height="200">
+<img src="/images/screenshot6.png" width="600" height="300">
 
 #### Step 4 -- Yhat (predictive values for each day) -- Upper/Lower (predictive range for each day)
-<img src="/images/screenshot7.png" width="600" height="200">
+<img src="/images/screenshot7.png" width="600" height="300">
 
 #### Step 4 -- Relate Search Traffic to Stock Price Patterns
-<img src="/images/screenshot8.png" width="600" height="200">
+<img src="/images/screenshot8.png" width="600" height="300">
 
 #### Step 5 -- 
 ## References
