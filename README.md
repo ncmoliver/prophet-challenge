@@ -81,5 +81,5 @@ Future interest would be to zoom in on this data around the month of October to 
 ## References
 [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)    
 [UNC Bootcamp Spot - Activities](https://git.bootcampcontent.com/UNC-Chapel-Hill/UNC-VIRT-AI-PT-06-2024-U-LOLC)    
-[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)    
 [Slack BCS Learning Assistant](www.slack.com)
