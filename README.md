@@ -28,10 +28,17 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 ## Analysis Steps
 | Step | Description | 
 | ----------- | ----------- | 
-| **Step 1 -- Find Unusual Patterns In Hourly Google Search Traffic** | **1.** Using Google search trends on the company, the first step involved reading the data into a dataframe and slicing out the month the company released its quarterly financial results, which was in May 2020. --- **2.** Calculate May's total search traffic and compare it to the monthly median across all months (screenshot #1)  |
+| **Step 1 -- Find Unusual Patterns In Hourly Google Search Traffic** | **1.** Using Google search trends on the company, the first step involved reading the data into a dataframe and slicing out the month the company released its quarterly financial results, which was in May 2020. --- **2.** Calculate May's total search traffic and compare it to the monthly median across all months and combine the search traffic trends and the stock data into one dataframe. (screenshot #1)  |
 | **Step 2 -- Mine the Search Traffic Data for Seasonality** | This step resulted in three line graphs showing the hourly search data by time of day (24 hours), day of week (Monday to Sunday), and by the week of the year (Week 1 to Week 52). (Screenshot 2 - 4) |
-| **Step 3 -- Relate Search Traffic to Stock Price Patterns** | **1.** Investigate stock patterns, based on theory that E-commerce companies experience a shock early 2020 and after intial shock revenue began to increase. **2.** Create new columns for Lagged Search Trends, Stock Volatility, and Hourly Stock Return and create a visualization to analyze. |
-| Step 4 | Text |
+| **Step 3 -- Relate Search Traffic to Stock Price Patterns** | **1.** In this step we first investigated the stock data and determined there as a shock in the beginning of year followed by increased revenues. **2.** Added new columns to the joint dataframe. |
+| **Step 3a -- Lagged Search Trends** | Displays a one hour lag in the search trends,  |
+| **Step 3b -- Stock Volatility** | Displays the variation of the company's closing trading stock prices |
+| **Step 3 -- Hourly Stock Return** | Shows how much the stock has gone up or down in one hour. |
+| **Step 4 -- Review & Analyze Correlation**| Created a time series model and plotted forecast.  This step involved setting up the data for a Prophet forcasting model, using the model to make predictions, and plotting the forecast. (screenshot ) |
+---
+## Results / Outcomes
+| **Step 3 -- Hourly Stock Return** | Shows how much the stock has gone up or down in one hour. |
+
 ## Screenshots
 #### Step 1 -- May's Total Search Traffic vs 2020 Monthly Median (all months)
 <img src="/images/screenshot1.png" width="600" height="400">
@@ -48,7 +55,16 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 #### Step 3 -- Relate Search Traffic to Stock Price Patterns
 <img src="/images/screenshot5.png   " width="600" height="400">
 
-#### Step 4 -- 
+#### Step 3 -- Relate Search Traffic to Stock Price Patterns
+<img src="/images/screenshot6.png   " width="600" height="400">
+
+#### Step 4 -- Yhat (predictive values for each day) -- Upper/Lower (predictive range for each day)
+<img src="/images/screenshot7.png   " width="600" height="400">
+
+#### Step 4 -- Relate Search Traffic to Stock Price Patterns
+<img src="/images/screenshot8.png   " width="600" height="400">
+
+#### Step 5 -- 
 ## References
 [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)    
 [UNC Bootcamp Spot - Activities](https://git.bootcampcontent.com/UNC-Chapel-Hill/UNC-VIRT-AI-PT-06-2024-U-LOLC)    
