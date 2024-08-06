@@ -55,9 +55,8 @@ Understand what is happening on Tuesdays throughout the year to pull more attent
 
 **Lowest Point for Search Traffic In Calendar Year?**
 Future interest would be to zoom in on this data around the month of October look for more indicators around the exact time period to be associated with the drop.
-----
 
-## Screenshots
+### Screenshots
 #### Step 1 -- May's Total Search Traffic vs 2020 Monthly Median (all months)
 <img src="/images/screenshot1.png" width="600" height="300">
 
