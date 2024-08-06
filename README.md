@@ -6,6 +6,7 @@
 #### [Analysis Steps](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#analysis-steps)    
 #### [Screenshots](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#screenshots)    
 #### [References](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#references)
+---
 ## Project Overview
 This project is for the top e-commerce site in Latin America, Mercado Libre. In this program, the goal is to find any unusual trends in the hourly Google search traffic and compare them to the stock price patterns. 
 ## Installation Instructions
@@ -36,8 +37,11 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 | **Step 3 -- Hourly Stock Return** | Shows how much the stock has gone up or down in one hour. |
 | **Step 4 -- Review & Analyze Correlation**| Created a time series model and plotted forecast.  This step involved setting up the data for a Prophet forcasting model, using the model to make predictions, and plotting the forecast. (screenshot ) |
 ---
-## Results / Outcomes
-| **Step 3 -- Hourly Stock Return** | Shows how much the stock has gone up or down in one hour. |
+## Results / Outcomes / Future Interest In Data
+| Trend Analysis | Analysis Result / Outcome | Future Interest |
+| Time Of Day With Greatest Popularity? | 12AM seems to be the peak time the search traffic. | Check the sales data in the regions where the company sells products to see if boosting search trends can increase profits. |
+| Day of Week With Most Search Traffic? | Tuesday's is the day of the week with most search traffic. | Understand what is happening on Tuesdays throughout the year to pull more attention than all other days. What are some measures and strategies we can implement on Tuesday's to increase revenue. | 
+| Lowest Point for Search Traffic in Calendar Year? | Between September and November shows the lowest peak of the year.| Future interest would be to zoom in on this data around the month of October look for more indicators around the exact time period to be associated with the drop. |
 
 ## Screenshots
 #### Step 1 -- May's Total Search Traffic vs 2020 Monthly Median (all months)
@@ -55,13 +59,13 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 #### Step 3 -- This visualization shows the combined dataframes over the first half of the year
 <img src="/images/combined.png" width="600" height="300">
 
-#### Step 3 -- Relate Search Traffic to Stock Price Patterns
+#### Step 4  -- Prophet Model Predictions -- Stock Predicton (dotted line) | Search Traffic (blue shadow)
 <img src="/images/screenshot6.png" width="600" height="300">
 
 #### Step 4 -- Yhat (predictive values for each day) -- Upper/Lower (predictive range for each day)
 <img src="/images/screenshot7.png" width="600" height="300">
 
-#### Step 4 -- Relate Search Traffic to Stock Price Patterns
+#### Step 4 -- Forecst Results -- Search Trend vs Day of Week, Day of year, and Hour of Day Stock 
 <img src="/images/screenshot8.png" width="600" height="300">
 
 #### Step 5 -- 
