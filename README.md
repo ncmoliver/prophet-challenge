@@ -1,4 +1,4 @@
-# Mercado 'Search Traffic vs Stock Price' Trend Analysis 
+# ㊑ Mercado 'Search Traffic vs Stock Price' Trend Analysis 
 ![project logo](/images/logo.gif)
 ## Table of Contents 
 #### [Project Overview](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#project-overview)    
@@ -7,7 +7,7 @@
 #### [Screenshots](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#screenshots)    
 #### [References](https://github.com/ncmoliver/prophet-challenge?tab=readme-ov-file#references)
 ---
-## Project Overview
+## 🗺️ Project Overview
 This project is for the top e-commerce site in Latin America, Mercado Libre. In this program, the goal is to find any unusual trends in the hourly Google search traffic and compare them to the stock price patterns. 
 ## Installation Instructions
 ### Google Colab - Github (strongly suggested)
@@ -26,7 +26,7 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 4. Open repository & Run program
 5. Enjoy your analysis & visualizations
 ---
-## Analysis Steps
+## 🪜 Analysis Steps
 | Step | Description | 
 | ----------- | ----------- | 
 | **Step 1 -- Find Unusual Patterns In Hourly Google Search Traffic** | **1.** Using Google search trends on the company, the first step involved reading the data into a dataframe and slicing out the month the company released its quarterly financial results, which was in May 2020. --- **2.** Calculate May's total search traffic and compare it to the monthly median across all months and combine the search traffic trends and the stock data into one dataframe. (screenshot #1)  |
@@ -37,7 +37,7 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 | **Step 3 -- Hourly Stock Return** | Shows how much the stock has gone up or down in one hour. |
 | **Step 4 -- Review & Analyze Correlation**| Created a time series model and plotted forecast.  This step involved setting up the data for a Prophet forcasting model, using the model to make predictions, and plotting the forecast. (screenshot ) |
 ---
-## Results / Outcomes / Future Interest In Data
+## 🧾 Results / Outcomes / Future Interest In Data
 
 | Trend Analysis | Analysis Result / Outcome |
 | ----------- | ----------- |
@@ -45,7 +45,7 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 | Day of Week With Most Search Traffic? | Tuesday's is the day of the week with most search traffic. |
 | Lowest Point for Search Traffic in Calendar Year? | Between September and November shows the lowest peak of the year. |
 ---
-### Future Interest
+### 🔍 Future Interest (based on..)
 
 **Time Of Day With Greatest Popularity**
 Check the sales data in the regions where the company sells products to see if boosting search trends can increase profits.    
