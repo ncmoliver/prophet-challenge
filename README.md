@@ -53,16 +53,16 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 <img src="/images/screenshot4.png" width="600" height="400">
 
 #### Step 3 -- Relate Search Traffic to Stock Price Patterns
-<img src="/images/screenshot5.png   " width="600" height="400">
+<img src="/images/combined.png" width="600" height="400">
 
 #### Step 3 -- Relate Search Traffic to Stock Price Patterns
-<img src="/images/screenshot6.png   " width="600" height="400">
+<img src="/images/screenshot6.png" width="600" height="400">
 
 #### Step 4 -- Yhat (predictive values for each day) -- Upper/Lower (predictive range for each day)
-<img src="/images/screenshot7.png   " width="600" height="400">
+<img src="/images/screenshot7.png" width="600" height="400">
 
 #### Step 4 -- Relate Search Traffic to Stock Price Patterns
-<img src="/images/screenshot8.png   " width="600" height="400">
+<img src="/images/screenshot8.png" width="600" height="400">
 
 #### Step 5 -- 
 ## References
