@@ -39,12 +39,18 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 ---
 ## Results / Outcomes / Future Interest In Data
 
-| Trend Analysis | Analysis Result / Outcome | Future Interest |
-|Time Of Day With Greatest Popularity? | 12AM seems to be the peak time the search traffic.|Check the sales data in the regions where the company sells products to see if boosting search trends can increase profits.|
+| Trend Analysis | Analysis Result / Outcome | 
+|Time Of Day With Greatest Popularity? | 12AM seems to be the peak time the search traffic.|
+|Day of Week With Most Search Traffic?|Tuesday's is the day of the week with most search traffic.|
+|Lowest Point for Search Traffic in Calendar Year?|Between September and November shows the lowest peak of the year.|
 
-|Day of Week With Most Search Traffic?|Tuesday's is the day of the week with most search traffic.|Understand what is happening on Tuesdays throughout the year to pull more attention than all other days. What are some measures and strategies we can implement on Tuesday's to increase revenue.| 
-
-|Lowest Point for Search Traffic in Calendar Year?|Between September and November shows the lowest peak of the year.|Future interest would be to zoom in on this data around the month of October look for more indicators around the exact time period to be associated with the drop.|
+### Future Interest
+**Time Of Day With Greatest Popularity**
+Check the sales data in the regions where the company sells products to see if boosting search trends can increase profits.
+**Day Of Week With Most Search Traffic?**
+Understand what is happening on Tuesdays throughout the year to pull more attention than all other days. What are some measures and strategies we can implement on Tuesday's to increase revenue.
+**Lowest Point for Search Traffic In Calendar Year?**
+Future interest would be to zoom in on this data around the month of October look for more indicators around the exact time period to be associated with the drop.
 
 ## Screenshots
 #### Step 1 -- May's Total Search Traffic vs 2020 Monthly Median (all months)
