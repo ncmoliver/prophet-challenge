@@ -41,13 +41,13 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 
 ## Screenshots
 #### Step 1 -- May's Total Search Traffic vs 2020 Monthly Median (all months)
-<img src="/images/screenshot1.png" width="600" height="400">
+<img src="/images/screenshot1.png" width="600" height="200">
 
 #### Step 2 -- Hourly Search Data by Hour in Day
-<img src="/images/screenshot2.png" width="600" height="400">
+<img src="/images/screenshot2.png" width="600" height="200">
 
 #### Step 2 -- Hourly Search Data by Day in Week
-<img src="/images/screenshot3.png" width="600" height="400">
+<img src="/images/screenshot3.png" width="600" height="200">
 
 #### Step 2 -- Hourly Search Data by Week in Year
 <img src="/images/screenshot4.png" width="600" height="400">
