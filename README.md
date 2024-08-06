@@ -52,7 +52,7 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 #### Step 2 -- Hourly Search Data by Week in Year
 <img src="/images/screenshot4.png" width="600" height="400">
 
-#### Step 3 -- Relate Search Traffic to Stock Price Patterns
+#### Step 3 -- This visualization shows the combined dataframes over the first half of the year
 <img src="/images/combined.png" width="600" height="400">
 
 #### Step 3 -- Relate Search Traffic to Stock Price Patterns
