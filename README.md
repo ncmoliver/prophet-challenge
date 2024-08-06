@@ -57,7 +57,7 @@ Understand what is happening on Tuesdays throughout the year to pull more attent
 Future interest would be to zoom in on this data around the month of October to look for more indicators around the exact time period to be associated with the drop.
 
 ## Screenshots
-#### Step 1 -- May's Total Search Traffic vs 2020 Monthly Median (all months)
+#### Step 1 -- Company Search Traffic Historical Stock Visualization
 <img src="/images/screenshot1.png" width="600" height="300">
 
 #### Step 2 -- Hourly Search Data by Hour in Day
