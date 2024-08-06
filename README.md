@@ -51,10 +51,10 @@ This project is for the top e-commerce site in Latin America, Mercado Libre. In 
 Check the sales data in the regions where the company sells products to see if boosting search trends can increase profits.    
 
 **Day Of Week With Most Search Traffic?**    
-Understand what is happening on Tuesdays throughout the year to pull more attention than all other days. What are some measures and strategies we can implement on Tuesdays to increase revenue.    
+Understand what is happening on Tuesdays throughout the year to attract more attention than all other days. What measures and strategies can we implement on Tuesdays to increase revenue.    
 
 **Lowest Point for Search Traffic In Calendar Year?**    
-Future interest would be to zoom in on this data around the month of October to look for more indicators around the exact time period to be associated with the drop.
+It would be beneficial to closely examine the month of October to find more indicators associated with the drop in search traffic for that period. 
 
 ## Screenshots
 #### Step 1 -- Company Search Traffic Historical Stock Visualization
